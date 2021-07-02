@@ -5,5 +5,3 @@ The odin project
 Build the google homepage.
 
 Finished.
-
-Check.
