@@ -2,6 +2,6 @@
 
 The odin project
 
-Deconstruct and reconstruct the google homepage.
+Build the google homepage.
 
 Finished.
